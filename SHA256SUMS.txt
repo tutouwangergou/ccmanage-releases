@@ -1,0 +1,2 @@
+978663db8d029e77da28c664928ef27674cd4a432feb3c075b0acdd84ec4428b  ClaudeSwitcher-Mac-2.0.0-mac-20261026-Universal-Setup.zip
+f26272eb1b815ff0950c3b752c1abc7bfe0ef57312fc869fbc0f30765004c32d  ClaudeSwitcher-Mac-2.0.0-mac-20261026-Update.zip

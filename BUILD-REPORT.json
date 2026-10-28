@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0-mac-20261026",
+  "build_platform": "posix",
+  "runtime": "official Node.js 22.23.3",
+  "runtime_archives": {
+    "arm64": "72d5d8832b41c9d9646197af614ffd751406ea4d215060eb91b98864e1919a3e",
+    "x64": "ac41874c3352937119cfec39e1a98c578fe58ce8a86d7e785b89a4706015f305"
+  },
+  "electron": "44.4.5",
+  "electron_archives": {
+    "arm64": "a212eee63ba2f45fd83bd28f77a3e3313a336ad17a4c25adf617942eef5e0e2c",
+    "x64": "778350cc572c36484dd56c130cae96ad1a9a5b695ba22dd06abd23ba0a46c9de"
+  },
+  "automated_tests": [
+    "# tests 136",
+    "# pass 136",
+    "# fail 0",
+    "# skipped 0"
+  ],
+  "macOS_native_validation": "not performed on this Windows build host",
+  "distribution": "offline universal ZIP installer; independent Electron desktop window; recipient Mac selects native runtime",
+  "signing": "no Developer ID or notarization; local app ad hoc signature at install time",
+  "manual_checks_required": [
+    "native install/launch/quit",
+    "actual A-B-A signed-in round trip",
+    "Keychain quota authorization and identity verification",
+    "legacy LaunchAgent removal on install",
+    "session pool sync (new, changed, deleted) before launch",
+    "upgrade/uninstall"
+  ],
+  "account_data_included": false,
+  "auto_watcher": "removed in 1.8.0",
+  "quota_warming": "removed in 1.8.0",
+  "automatic_session_carry": "always-on session pool (no toggle) across all saved accounts on manual switch; pool.json three-way merge propagates new, changed and deleted indexes before relaunch with backups; manual batch copy and recent mode removed; org ambiguity refuses copy"
+}
