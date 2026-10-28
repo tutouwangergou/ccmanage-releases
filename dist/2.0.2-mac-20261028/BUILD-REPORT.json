@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1-mac-20261028",
+  "version": "2.0.2-mac-20261028",
   "build_platform": "posix",
   "runtime": "official Node.js 22.23.3",
   "runtime_archives": {
@@ -12,8 +12,8 @@
     "x64": "778350cc572c36484dd56c130cae96ad1a9a5b695ba22dd06abd23ba0a46c9de"
   },
   "automated_tests": [
-    "# tests 137",
-    "# pass 137",
+    "# tests 138",
+    "# pass 138",
     "# fail 0",
     "# skipped 0"
   ],

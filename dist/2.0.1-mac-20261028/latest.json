@@ -1,4 +1,0 @@
-{
-  "manifest": "{\n  \"product\": \"claude-switcher-mac\",\n  \"version\": \"2.0.1-mac-20261028\",\n  \"node\": \"22.23.3\",\n  \"electron\": \"44.4.5\",\n  \"notes\": \"2.0.1：优化云端同步与分组体验。管理员登录仅拉取账号列表并仅下载分配给自己的快照；「我的账号」展示使用中/储备/作废分组并支持拖动调整，点击备注直接修改本机备注（不覆盖云端）；支持将当前使用中的账号状态同步至云端后台。\",\n  \"packages\": {\n    \"update\": {\n      \"file\": \"ClaudeSwitcher-Mac-2.0.1-mac-20261028-Update.zip\",\n      \"size\": 191577,\n      \"sha256\": \"1d85444ac4cedf25c52d85edc7dd62eb1932bfac14d86d302db6a181f8b7b760\"\n    },\n    \"full\": {\n      \"file\": \"ClaudeSwitcher-Mac-2.0.1-mac-20261028-Universal-Setup.zip\",\n      \"size\": 340105021,\n      \"sha256\": \"a2bb3ac0f4e4c3175edec4bbf410fc08aaf1c598af2380c33cf1cd5a301fd827\"\n    }\n  }\n}",
-  "signature": "mPeI52yFJB54OwDuTZnHjoWdn4q9MEpgeedoNMQb80w9cjMY6UKWLkSdVLW+UzzsV+sqqfP39bLtdgo5qR78AQ=="
-}

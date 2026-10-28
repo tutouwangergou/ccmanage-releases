@@ -1,0 +1,4 @@
+{
+  "manifest": "{\n  \"product\": \"claude-switcher-mac\",\n  \"version\": \"2.0.2-mac-20261028\",\n  \"node\": \"22.23.3\",\n  \"electron\": \"44.4.5\",\n  \"notes\": \"2.0.2：支持用户自助注册登录账号与密码；支持检测到新版本后全自动静默下载、校验、安装并重启打开新版本。\",\n  \"packages\": {\n    \"update\": {\n      \"file\": \"ClaudeSwitcher-Mac-2.0.2-mac-20261028-Update.zip\",\n      \"size\": 192049,\n      \"sha256\": \"4d14917424b1a6040306acca43006bd9e7a9ec240cc87441728e3237c1c3d074\"\n    },\n    \"full\": {\n      \"file\": \"ClaudeSwitcher-Mac-2.0.2-mac-20261028-Universal-Setup.zip\",\n      \"size\": 340105572,\n      \"sha256\": \"24c80557f14ad61d8012453d260c3191347b18aac36067bd0ed8156344f60240\"\n    }\n  }\n}",
+  "signature": "kypdjO/hQjkkqkZIyi4/GV2ZXD+t6gcOUohvhelFfTEDFFii9+VK/r0FnYA3oE5XHl8YYnN0FbQJ5/m1lQSGDQ=="
+}
