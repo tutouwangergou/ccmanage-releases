@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0-mac-20261026",
+  "version": "2.0.1-mac-20261028",
   "build_platform": "posix",
   "runtime": "official Node.js 22.23.3",
   "runtime_archives": {
