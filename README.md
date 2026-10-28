@@ -6,10 +6,10 @@
 
 - **完整离线安装包（Universal Setup ZIP，324 MB）**：
   [ClaudeSwitcher-Mac-2.0.0-mac-20261026-Universal-Setup.zip](https://github.com/tutouwangergou/ccmanage-releases/releases/download/v2.0.0-mac-20261026/ClaudeSwitcher-Mac-2.0.0-mac-20261026-Universal-Setup.zip)
-  - SHA256: `aac6436b43a0cc82d6f9625b5b1a1055c5ab6fc90a9e0e0eb6f57a8097f29f8a`
+  - SHA256: `542d6f5837015b0263af36255e6f35d7546ed37dd51697b60e7f87e6cb956ab6`
 - **应用内热更新包（Update ZIP，185 KB）**：
   [ClaudeSwitcher-Mac-2.0.0-mac-20261026-Update.zip](https://github.com/tutouwangergou/ccmanage-releases/releases/download/v2.0.0-mac-20261026/ClaudeSwitcher-Mac-2.0.0-mac-20261026-Update.zip)
-  - SHA256: `3f3b6205e4f9e56d483304ee3025ecad14abd68fdeb57a018a54b53f4ad967f7`
+  - SHA256: `d7172e88eb9cfb89471faac2e603f1f0389f48ef14537503e48c20f9efe08377`
 - **签名更新清单（`latest.json`）**：
   [latest.json](https://github.com/tutouwangergou/ccmanage-releases/releases/latest/download/latest.json)
 - **Release 页面**：
