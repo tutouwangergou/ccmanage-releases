@@ -6,10 +6,10 @@
 
 - **完整离线安装包（Universal Setup ZIP，324 MB）**：
   [ClaudeSwitcher-Mac-2.0.1-mac-20261028-Universal-Setup.zip](https://github.com/tutouwangergou/ccmanage-releases/releases/download/v2.0.1-mac-20261028/ClaudeSwitcher-Mac-2.0.1-mac-20261028-Universal-Setup.zip)
-  - SHA256: `040464cbc6f63c29b27e986d658ccad54c23b1d9d93bfacc6d4a29702f92f8c8`
-- **应用内热更新包（Update ZIP，186 KB）**：
+  - SHA256: `7b4b9835f7e76d2a01c5cee5746f1d87c62137208963adff764f08ebed55f219`
+- **应用内热更新包（Update ZIP，187 KB）**：
   [ClaudeSwitcher-Mac-2.0.1-mac-20261028-Update.zip](https://github.com/tutouwangergou/ccmanage-releases/releases/download/v2.0.1-mac-20261028/ClaudeSwitcher-Mac-2.0.1-mac-20261028-Update.zip)
-  - SHA256: `0f842652f638862ea2b781cfe7170cbe2436768d68f8f57ecf7509c44cd07812`
+  - SHA256: `672abbb2e49bfce9dd5d49056f96cc99d2af20718d66d485931ce26074cf31ce`
 - **签名更新清单（`latest.json`）**：
   [latest.json](https://github.com/tutouwangergou/ccmanage-releases/releases/latest/download/latest.json)
 - **Release 页面**：
@@ -17,4 +17,4 @@
 
 ## 2.0.1 更新说明
 
-- 优化云端同步与分组体验：管理员登录仅拉取账号列表并仅下载分配给自己的快照；「我的账号」展示使用中/储备/作废分组并支持拖动调整，点击备注直接修改本机备注（不覆盖云端）；支持将当前使用中的账号状态同步至云端后台。
+- 优化云端同步与分组体验：支持成员自助注册账号并自动登录；管理员登录仅拉取账号列表并仅下载分配给自己的快照；「我的账号」展示使用中/储备/作废分组并支持拖动调整，点击备注直接修改本机备注（不覆盖云端）；支持将当前使用中的账号状态同步至云端后台。
